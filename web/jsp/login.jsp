@@ -97,7 +97,7 @@
     
     
     
-    <div class="loginbm">如有问题请联系xiu-hongc@foxmail.com，所有权归陈秀红所有</div>
+    <div class="loginbm">天津理工大学·所有权归武桐所有</div>
 	
     
 </body>

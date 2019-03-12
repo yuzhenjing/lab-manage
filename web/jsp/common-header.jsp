@@ -53,7 +53,7 @@
 
 <hr id="hr1"/>
 
-<div id="foot"><center>如有问题请联系xiu-hongc@foxmail.com，所有权归陈秀红所有</center></div>
+<div id="foot"><center>如有问题请联系xiu-hongc@foxmail.com，所有权归武桐所有</center></div>
 </img> --%>
 
 
